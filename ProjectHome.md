@@ -1,0 +1,2 @@
+'Durak' is a russian card game, which is quite well-known in east European countries. The program permits users to play the game against a simple AI engine or against other users through the network.
+Written in C++, uses Qt 4.4+ and asio library for the networking. It's also cross-platform (Win/Linux/MacOS X)
